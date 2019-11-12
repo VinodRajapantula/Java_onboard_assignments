@@ -1,0 +1,2 @@
+In Static method we can access only static variable and methods. Can not access non static elements.
+In non static method, we can access static and non static elements can be accessed.

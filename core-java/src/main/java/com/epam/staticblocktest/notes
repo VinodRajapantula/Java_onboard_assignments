@@ -1,0 +1,4 @@
+Static block will be executed only once as and when class loads.
+Static block will be executed before constructor.
+Static variable can not be created inside the method. It should be declared at class level.
+
